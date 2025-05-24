@@ -1,6 +1,6 @@
 {
-    "domain": "alarmdotcom",
-    "name": "Alarm.com",
+    "domain": "telussecurity",
+    "name": "Telus Security",
     "codeowners": [
         "@uvjustin",
         "@elahd"
